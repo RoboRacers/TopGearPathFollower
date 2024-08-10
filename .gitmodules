@@ -1,0 +1,3 @@
+[submodule "lib/src/main/java/org/roboracers/topgear"]
+	path = lib/src/main/java/org/roboracers/topgear
+	url = https://github.com/RoboRacers/topgear.git
